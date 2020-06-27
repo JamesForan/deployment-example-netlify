@@ -33,7 +33,7 @@ const seedUser = {
       bio: 'Health Enthusiast',
     },
   },
-  posts: {
+  post: {
     create: [
       {
         title: 'Comparing Database Types: How Database Types Evolved to Meet Different Needs',
@@ -59,7 +59,7 @@ const seedUser2 = {
       bio: 'Musician',
     },
   },
-  posts: {
+  post: {
     create: [
       {
         title: 'Requiem for String Orchestra',
